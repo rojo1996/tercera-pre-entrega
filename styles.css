@@ -1,0 +1,18 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #87CEFA; /* Celeste */
+  color: white;
+}
+
+h1 {
+  color: black;
+}
+
+button {
+  background-color: #FFFF00; /* Amarillo */
+  color: black;
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
